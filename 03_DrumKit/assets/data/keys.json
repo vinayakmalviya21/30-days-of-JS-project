@@ -1,0 +1,47 @@
+[
+    {
+      "keyCode": 65,
+      "letter": "A",
+      "sound": "clap"
+    },
+    {
+      "keyCode": 83,
+      "letter": "S",
+      "sound": "hihat"
+    },
+    {
+      "keyCode": 68,
+      "letter": "D",
+      "sound": "kick"
+    },
+    {
+      "keyCode": 70,
+      "letter": "F",
+      "sound": "openhat"
+    },
+    {
+      "keyCode": 71,
+      "letter": "G",
+      "sound": "boom"
+    },
+    {
+      "keyCode": 72,
+      "letter": "H",
+      "sound": "ride"
+    },
+    {
+      "keyCode": 74,
+      "letter": "J",
+      "sound": "snare"
+    },
+    {
+      "keyCode": 75,
+      "letter": "K",
+      "sound": "tom"
+    },
+    {
+      "keyCode": 76,
+      "letter": "L",
+      "sound": "tink"
+    }
+  ]
